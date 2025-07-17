@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ad581b-7e05-4c97-917c-1ab321089b8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/Triangulo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/src/Entities/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangulo/src/application/Program.java" beforeDir="false" />
-    </list>
+    <list default="true" id="23ad581b-7e05-4c97-917c-1ab321089b8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Triangulo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
