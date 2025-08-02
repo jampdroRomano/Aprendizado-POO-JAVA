@@ -1,6 +1,6 @@
 package Program;
 
-import ui.Menu; 
+import ui.Menu;
 
 class Principal {
     public static void main(String[] args) {
