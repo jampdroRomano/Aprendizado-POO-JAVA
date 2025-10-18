@@ -21,7 +21,7 @@ Este repositório foi criado para registrar minha jornada de aprendizado em **Pr
 
 ## 📂 Organização
 
-.
+```plaintext
 ├── Teoria
 │   ├── Construtores/
 │   │   └── Conceito.md
@@ -48,6 +48,7 @@ Este repositório foi criado para registrar minha jornada de aprendizado em **Pr
 │   └── Lista_5/
 │       ├── Lista 05 - Array e Listas.docx
 │       └── ExerciciosResolvidos/
+```
 
 ---
 
