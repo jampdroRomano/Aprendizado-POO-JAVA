@@ -52,25 +52,29 @@ Este repositório foi criado para registrar minha jornada de aprendizado em **Pr
 
 ---
 
-[Lista 1](Exercicios_praticos/Lista_1/Lista%2001.docx)  
-  - Exercícios Resolvidos:
-    - [Pasta ExerciciosResolvidos](Exercicios_praticos/Lista_1/ExerciciosResolvidos/)
+## 🧩 Exercícios Práticos
 
-[Lista 2](Exercicios_praticos/Lista_2/Lista%2002.docx)  
-  - Exercícios Resolvidos:
-    - [Pasta ExerciciosResolvidos](Exercicios_praticos/Lista_2/ExerciciosResolvidos/)
+- **Lista 1**  
+  - [Lista 01.docx](Exercicios_praticos/Lista_1/Lista%2001.docx)  
+  - [Exercícios Resolvidos](Exercicios_praticos/Lista_1/ExerciciosResolvidos/)
 
-[Lista 3](Exercicios_praticos/Lista_3/Lista%2003.docx)  
-  - Exercícios Resolvidos:
-    - [Pasta ExerciciosResolvidos](Exercicios_praticos/Lista_3/ExerciciosResolvidos/)
+- **Lista 2**  
+  - [Lista 02.docx](Exercicios_praticos/Lista_2/Lista%2002.docx)  
+  - [Exercícios Resolvidos](Exercicios_praticos/Lista_2/ExerciciosResolvidos/)
 
-[Lista 4](Exercicios_praticos/Lista_4/Lista%2004.docx)  
-  - Exercícios Resolvidos:
-    - [Pasta ExerciciosResolvidos](Exercicios_praticos/Lista_4/ExerciciosResolvidos/)
+- **Lista 3**  
+  - [Lista 03.docx](Exercicios_praticos/Lista_3/Lista%2003.docx)  
+  - [Exercícios Resolvidos](Exercicios_praticos/Lista_3/ExerciciosResolvidos/)
 
-[Lista 5 - Array e Listas](Exercicios_praticos/Lista_5/Lista%2005%20-%20Array%20e%20Listas.docx)  
-  - Exercícios Resolvidos:
-    - [Pasta ExerciciosResolvidos](Exercicios_praticos/Lista_5/ExerciciosResolvidos/)
+- **Lista 4**  
+  - [Lista 04_Parte_1 - Enums metodos Staticos.docx](Exercicios_praticos/Lista_4/Lista%2004_Parte_1%20-%20Enums%20metodos%20Staticos.docx)  
+  - [Lista 04_Parte_2 - Herança.docx](Exercicios_praticos/Lista_4/Lista%2004_Parte_2%20-%20Herança.docx)  
+  - [Exercícios Resolvidos](Exercicios_praticos/Lista_4/ExerciciosResolvidos/)
+
+- **Lista 5 - Array e Listas**  
+  - [Lista 05 - Array e Listas.docx](Exercicios_praticos/Lista_5/Lista%2005%20-%20Array%20e%20Listas.docx)  
+  - [Exercícios Resolvidos](Exercicios_praticos/Lista_5/ExerciciosResolvidos/)
+
 
 --- 
 
